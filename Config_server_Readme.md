@@ -1,5 +1,5 @@
 # Config Server
-[GitHub](https://github.com/hamitmizrak/offline_microservis_2_config_server)
+[GitHub](https://github.com/oguzcanuzunoner/offline_microservis_2_config_server)
 ---
 
 ## Config Server
